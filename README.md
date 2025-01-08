@@ -5,7 +5,13 @@ This is the **frontend part** of full-stack **Library Management System (LMS)** 
 ---
 
 ## **Sneak peek of the website**
-
+![image](https://github.com/user-attachments/assets/fc967262-38a7-4e56-b3c0-affc40644c58)
+Homepage
+![image](https://github.com/user-attachments/assets/4cc6778b-e9cd-49a3-aca6-1198a3dc6698)
+![image](https://github.com/user-attachments/assets/538ae53e-bf47-41e1-b25d-0067297e9c50)
+![image](https://github.com/user-attachments/assets/e13a1c13-9b3c-47be-894e-187ece9ae38f)
+![image](https://github.com/user-attachments/assets/e734be4e-ae9a-4975-bd3f-6d9fc2baf5ec)
+![image](https://github.com/user-attachments/assets/5f473da3-8efa-40e9-8f64-3d5ed34cb964)
 ![image](https://github.com/user-attachments/assets/c218bb7a-f2a4-4ca2-a0c0-ba3ad5dc5480)
 
 ---
