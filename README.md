@@ -4,6 +4,12 @@ This is the **frontend part** of full-stack **Library Management System (LMS)** 
 
 ---
 
+## **Sneak peek of the website**
+
+![image](https://github.com/user-attachments/assets/c218bb7a-f2a4-4ca2-a0c0-ba3ad5dc5480)
+
+---
+
 ## **Features**
 - **Admin Dashboard**: Add, edit, and delete books.
 - **User Dashboard**: Borrow and return books.
