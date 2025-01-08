@@ -12,7 +12,6 @@ Homepage
 ![image](https://github.com/user-attachments/assets/e13a1c13-9b3c-47be-894e-187ece9ae38f)
 ![image](https://github.com/user-attachments/assets/e734be4e-ae9a-4975-bd3f-6d9fc2baf5ec)
 ![image](https://github.com/user-attachments/assets/5f473da3-8efa-40e9-8f64-3d5ed34cb964)
-![image](https://github.com/user-attachments/assets/c218bb7a-f2a4-4ca2-a0c0-ba3ad5dc5480)
 
 ---
 
